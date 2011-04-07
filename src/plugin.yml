@@ -1,0 +1,11 @@
+name: bLog
+main: com.beecub.bLog.bLog
+version: 1.0.0
+author: beecub
+description: >
+             Logger
+commands:
+  bLog:
+    description: reload config
+    usage: |
+           /<command> [reload]
